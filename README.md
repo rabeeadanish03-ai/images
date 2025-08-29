@@ -4,7 +4,8 @@ This project features a simple and clean HTML form designed for account data ent
 
 ## 🔍 Preview
 
-![Form Preview](https://raw.githubusercontent.com/your-username/your-repo/main/images/form-preview.png)
+[![Form Preview](form-preview.png)](form-preview.png)
+
 
 
 ## ✨ Features
