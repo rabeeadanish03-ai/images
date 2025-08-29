@@ -1,0 +1,22 @@
+# HTML Account Form
+
+This project contains a simple HTML form for entering account data. It includes labeled fields and a clean layout, ideal for beginner-level system architecture.
+
+## 📸 Screenshot
+
+![Form Preview](form.png)
+
+## 🔧 How to Use
+
+- Open `index.html` in your browser
+- Fill out the form to test layout and structure
+
+## 🛠️ Technologies Used
+
+- HTML5
+
+## 👤 Author
+
+ Rabeea Danish  
+System Architect & Technical Documenter  
+GitHub: [your-username](https://github.com/your-username)
