@@ -4,7 +4,7 @@ This project features a simple and clean HTML form designed for account data ent
 
 ## 🔍 Preview
 
-![Form Preview](images/form-preview.png)
+(images/form-preview.png)
 
 ## ✨ Features
 - Structured layout with labeled fields
